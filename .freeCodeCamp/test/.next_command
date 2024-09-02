@@ -72,3 +72,15 @@ git init
 echo "# salon_appointment_scheduler" >> README.md
 git init
 git add .
+git commit -m "Initial commit with salon.sh and database setup"
+git remote add origin git@github.com:MaryamAlmutawah/salon_appointment_scheduler.git
+git remote -v
+git remote set-url origin git@github.com:MaryamAlmutawah/salon_appointment_scheduler.git
+git remote -v
+git remote -v
+git push -u origin master
+git branch
+git push -u origin main
+eval SHA256:iRFk3I8gr/CC746y0GFP60yj4JgH8yfdCUVkTgADdDs
+git init
+git add .
