@@ -65,3 +65,10 @@ psql --username=freecodecamp --dbname=postgres
 touch salon.sh
 chmod +x salon.sh
 ./salon.sh
+cd https://github.com/MaryamAlmutawah/salon_appointment_scheduler.git
+cd
+cd /path/to/your/project
+git init
+echo "# salon_appointment_scheduler" >> README.md
+git init
+git add .
